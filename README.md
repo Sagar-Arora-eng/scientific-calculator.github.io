@@ -1,2 +1,2 @@
-# scientific-calculator.github.io
-It is scientific calculator
+It is a scientific calculator
+Technologies used : HTML, CSS, JavaScript

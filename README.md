@@ -1,4 +1,4 @@
-It is a scientific calculator
+It is a scientific calculator project
 
 Technologies used : HTML, CSS, JavaScript
 
